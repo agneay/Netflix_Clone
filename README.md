@@ -1,4 +1,4 @@
-# Netflix_Clone [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+# Netflix_Clone [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 A Netflix clone is a web app that, just like Netflix does, provides users with a database of movies (or TV series) that they can watch whenever they want.
 
 
